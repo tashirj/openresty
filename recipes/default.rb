@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: http_installation
+# Cookbook Name:: openresty
 # Recipe:: default
 #
-# Copyright 2016, YOUR_COMPANY_NAME
+# Copyright 2016, tashinfrus
 #
 # All rights reserved - Do Not Redistribute
 #
